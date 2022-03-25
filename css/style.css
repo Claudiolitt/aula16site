@@ -547,6 +547,36 @@ footer div img {
     height: 25px;
 }
 
+
+@media  (min-width:300px) {
+    
+    
+    .card_Text{
+        font-size: 0.85rem;
+    }
+    .card {
+      
+        width: 80%;
+        height: 85vh ;
+    }
+   
+    .card-descricao {
+        width: 80%;
+    }
+    
+    footer { 
+        height: 15vh;
+        flex-direction: column;
+
+    } .card_Img {
+        height: 30vh;
+    }
+}
+.menu {
+        flex-direction: column;
+        flex-direction: row;
+
+    }
 @media  (min-width:460px) {
     
     
