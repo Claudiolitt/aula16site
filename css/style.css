@@ -561,9 +561,7 @@ footer div img {
         font-size: 0.85rem;
     }
 
-    main {
-        margin-top: 320px;
-    }
+
     .card {
         width: 90%;
         height: 600px ;
@@ -630,10 +628,6 @@ footer div img {
         flex-direction: row;
         height: 30px;
 
-    }
-
-    main {
-        margin-top: 200px;
     }
     
     header {
