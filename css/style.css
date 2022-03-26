@@ -96,7 +96,7 @@ h1 {
 
 main {
     width: 80%;
-    margin-top: 200px;
+    margin-top: 150px;
     margin-bottom: 150px;
     margin-left: auto;
     margin-right: auto;
@@ -492,9 +492,6 @@ h2 {
     
 }
 
-
-
-
 .card_Button a {
     color: white;
     text-decoration: none;
@@ -642,7 +639,7 @@ footer div img {
     }
     .card {
         width: 50%;
-        height: 90vh ;
+        height: 500px ;
     }
     footer { 
         flex-direction: row; 
