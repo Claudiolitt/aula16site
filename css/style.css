@@ -580,12 +580,12 @@ footer div img {
     } .card_Img {
         height: 30vh;
     }
-}
+
     .menu {
         height: 120px;
     }
 
-
+}
 @media  (min-width:360px) {
         
     .card_Text{
@@ -611,15 +611,14 @@ footer div img {
     } .card_Img {
         height: 30vh;
     }
-}
+
     .menu {
         flex-direction: column;
         
 
     }
 
-    
-    
+}   
 @media (min-width:780px) {
     .card-descricao {
         width: 40%;
@@ -673,12 +672,12 @@ footer div img {
         justify-content: space-between;
     }
 
+}
 @media (min-width: 1200px) {
 
     .card {
         width: 35%;
         height: 90vh;          
     }
-    
     
 }
