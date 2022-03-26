@@ -561,7 +561,7 @@ footer div img {
         font-size: 0.85rem;
     }
     .card {
-      
+        margin-top: 100px;
         width: 90%;
         height: 600px ;
     }
@@ -681,4 +681,3 @@ footer div img {
     
     }
 }
-
