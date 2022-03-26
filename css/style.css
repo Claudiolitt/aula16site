@@ -675,10 +675,10 @@ footer div img {
 
 @media (min-width: 1200px) {
 
-        .card {
-            width: 35%;
-            height: 90vh;          
-        }
-    
+    .card {
+        width: 35%;
+        height: 90vh;          
     }
+    
+    
 }
