@@ -547,6 +547,9 @@ footer div img {
 
 @media  (min-width:250px) {
     
+    main {
+        margin-top: 250px;
+    }
 
     header ul {
         flex-direction: column;
@@ -617,14 +620,15 @@ footer div img {
 
 }   
 @media (min-width:780px) {
-   
+    main {
+        margin-top: 150px;
+    }
     .card-descricao {
         width: 40%;
     }
     .menu {
         flex-direction: row;
         height: 30px;
-
     }
     
     header {
@@ -654,7 +658,7 @@ footer div img {
     }
     .card {
         width: 40%;
-        height: 100vh ;
+        height: 500px ;
     }
     .card_Img {
         height: 40vh;
